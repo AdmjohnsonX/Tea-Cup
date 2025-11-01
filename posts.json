@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "First Dates",
+      "content": "On a first date, focus on asking open-ended questions. Instead of 'Did you have a good day?', try 'What was the most interesting part of your day?'. It sparks much better conversation."
+    },
+    {
+      "id": 2,
+      "category": "Long-Term",
+      "content": "Never stop dating your partner, even after years together. Plan regular date nights, leave little notes, and make a conscious effort to show appreciation every single day. The small things matter most."
+    },
+    {
+      "id": 3,
+      "category": "Communication",
+      "content": "'I feel...' statements are a game changer. Instead of 'You always...', try 'I feel unheard when...'. It frames the issue from your perspective and avoids blame, leading to a more constructive conversation."
+    },
+    {
+      "id": 4,
+      "category": "Self-Love",
+      "content": "Before seeking a relationship, make sure you're comfortable being alone. The right person should complement your life, not complete it. Work on yourself first."
+    },
+    {
+      "id": 5,
+      "category": "Red Flags",
+      "content": "If someone shows you who they are, believe them the first time. Don't waste time hoping they'll change. Trust your instincts."
+    },
+    {
+      "id": 6,
+      "category": "Boundaries",
+      "content": "Setting boundaries isn't selfish—it's self-respect. Communicate your needs clearly and don't compromise your values for anyone."
+    },
+    {
+      "id": 7,
+      "category": "First Dates",
+      "content": "Choose a date activity that allows for conversation. Dinner or coffee dates work better than movies for getting to know someone."
+    },
+    {
+      "id": 8,
+      "category": "Long-Term",
+      "content": "Learn your partner's love language and speak it regularly. What makes you feel loved might not be what makes them feel loved."
+    }
+  ]
+}
