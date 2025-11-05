@@ -366,7 +366,309 @@
       "Mistake_Details": "You weren't sure if you wanted commitment but didn't say it. You weren't ready for the relationship to get serious but let her think you were. You hid your true feelings to avoid rocking the boat. But dishonesty eventually sinks every ship.",
       "Mistake_Lesson": "Honesty might hurt now, but dishonesty destroys everything later.",
       "Mistake_Tag": "Honesty"
+    },
+
+    "Mistake61": {
+      "Mistake_Title": "Refusing to Admit When You're Wrong",
+      "Mistake_Details": "Even when the evidence was clear, you couldn't say 'I was wrong.' You deflected, blamed her, brought up past issues, or went silent. Admitting fault felt like weakness, but your refusal to take responsibility destroyed trust.",
+      "Mistake_Lesson": "The ability to say 'I'm sorry' is powerful, not pathetic. It shows strength.",
+      "Mistake_Tag": "Accountability"
+    },
+    "Mistake62": {
+      "Mistake_Title": "Punishing Her for Past Partners' Actions",
+      "Mistake_Details": "Your ex cheated, so you were suspicious of every text she received. Your last girlfriend was selfish, so you assumed she would be too. You made her pay for crimes she didn't commit because you hadn't healed from past hurt.",
+      "Mistake_Lesson": "She isn't your ex. Give her the chance to be someone new.",
+      "Mistake_Tag": "Trust"
+    },
+    "Mistake63": {
+      "Mistake_Title": "Not Recognizing Love Bombing as a Red Flag",
+      "Mistake_Details": "She came on strong at the beginning — constant compliments, overwhelming attention, moving fast. You thought it was passion, but it was manipulation. Love bombing is designed to make you lower your defenses so control can follow.",
+      "Mistake_Lesson": "Real love builds slowly. Intensity is not a sign of depth.",
+      "Mistake_Tag": "Red Flags"
+    },
+    "Mistake64": {
+      "Mistake_Title": "Treating Your Relationship Like a Hobby You Can Neglect",
+      "Mistake_Details": "You only invested energy when it was convenient or exciting. When things got routine, you checked out. You expected the spark to stay alive without feeding the fire. Relationships need consistent attention.",
+      "Mistake_Lesson": "Relationships aren't hobbies. They're priority or they're over.",
+      "Mistake_Tag": "Effort"
+    },
+    "Mistake65": {
+      "Mistake_Title": "Not Having Honest Conversations About Money",
+      "Mistake_Details": "Money talk felt uncomfortable, so you avoided it. You didn't know her financial situation, her debts, or her money habits. Financial incompatibility can destroy a relationship that's otherwise solid.",
+      "Mistake_Lesson": "Money conversations aren't romantic, but they're necessary.",
+      "Mistake_Tag": "Compatibility"
+    },
+    "Mistake66": {
+      "Mistake_Title": "Expecting Her to Meet All Your Emotional Needs",
+      "Mistake_Details": "She was your therapist, your best friend, your emotional support system — everything. You leaned on her for all your validation. That's too much weight for one person, and it made her feel suffocated.",
+      "Mistake_Lesson": "A partner enhances your life; they don't complete it. You need a full support system.",
+      "Mistake_Tag": "Independence"
+    },
+    "Mistake67": {
+      "Mistake_Title": "Not Appreciating Small Gestures",
+      "Mistake_Details": "She made you dinner, texted you good morning, remembered a small detail about your day — but you brushed it off or didn't acknowledge it. Over time, she stopped making the effort because it didn't seem to matter to you.",
+      "Mistake_Lesson": "Small gestures are how love shows up daily. Notice and appreciate them.",
+      "Mistake_Tag": "Appreciation"
+    },
+    "Mistake68": {
+      "Mistake_Title": "Using the Relationship as a Band-Aid for Loneliness",
+      "Mistake_Details": "You weren't ready for a relationship; you were running from being alone. The relationship was about filling a void, not building something real. Once your loneliness passed or she couldn't fill the void, you lost interest.",
+      "Mistake_Lesson": "You have to be okay being alone before you can be healthy in a relationship.",
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake69": {
+      "Mistake_Title": "Not Standing Up for Yourself in the Relationship",
+      "Mistake_Details": "She steamrolled your opinions, dismissed your feelings, and made decisions without your input. You just went along with it to keep the peace. But peace at the cost of your voice is submission, not partnership.",
+      "Mistake_Lesson": "Your voice matters. Use it.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake70": {
+      "Mistake_Title": "Keeping Score Instead of Keeping the Relationship",
+      "Mistake_Details": "You tracked every favor, every sacrifice, every moment of effort. When the scales felt unbalanced, you threw it back in her face. You were so focused on fairness that you forgot about generosity.",
+      "Mistake_Lesson": "Relationships aren't transactions. Don't keep score.",
+      "Mistake_Tag": "Generosity"
+    },
+    "Mistake71": {
+      "Mistake_Title": "Not Checking In With Reality When You're Unhappy",
+      "Mistake_Details": "You were unhappy, but you thought it was temporary. You told yourself it would get better. You made excuses. Meanwhile, days turned into months and months into years of being unhappy. You never acknowledged that the unhappiness was chronic, not temporary.",
+      "Mistake_Lesson": "Unhappiness is data. Listen to what it's telling you.",
+      "Mistake_Tag": "Reality"
+    },
+    "Mistake72": {
+      "Mistake_Title": "Competing With Her Friendships",
+      "Mistake_Details": "She wanted to hang out with her friends, and you felt replaced. You made her choose between you and them. You isolated her from her support system so you'd be her only focus.",
+      "Mistake_Lesson": "Healthy relationships include healthy friendships. Don't demand to be everything.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake73": {
+      "Mistake_Title": "Not Recognizing Narcissistic Behavior",
+      "Mistake_Details": "She needed constant validation and attention. Everything had to be about her. When you had a problem, she made it about her. She played the victim and never took responsibility. You didn't recognize narcissism until years later.",
+      "Mistake_Lesson": "Watch for patterns of self-centeredness and lack of empathy. That's not love.",
+      "Mistake_Tag": "Red Flags"
+    },
+    "Mistake74": {
+      "Mistake_Title": "Sharing Intimate Details With Your Friends",
+      "Mistake_Details": "You told your friends everything about your relationship — the intimate moments, the conflicts, her vulnerabilities. When things ended, they knew her secrets. She felt betrayed because you weaponized her privacy.",
+      "Mistake_Lesson": "What she shares with you stays with you. Her trust is sacred.",
+      "Mistake_Tag": "Trust"
+    },
+    "Mistake75": {
+      "Mistake_Title": "Not Discussing Dealbreakers Before Getting Deep",
+      "Mistake_Details": "You wanted kids; she didn't. You were religious; she wasn't. You had different life goals and visions for the future. But you didn't talk about these early on. By the time they surfaced, you were already in love.",
+      "Mistake_Lesson": "Know the dealbreakers before you fall. It saves heartbreak.",
+      "Mistake_Tag": "Compatibility"
+    },
+    "Mistake76": {
+      "Mistake_Title": "Using Jealousy to Test Her Love",
+      "Mistake_Details": "You told her you went out with an ex to see if she'd get jealous. You flirted with someone else to make her jealous. You thought jealousy meant she cared. But you were creating insecurity, not testing love.",
+      "Mistake_Lesson": "If you need to test her love, she's not the problem — your insecurity is.",
+      "Mistake_Tag": "Insecurity"
+    },
+    "Mistake77": {
+      "Mistake_Title": "Not Having Your Own Interests Outside the Relationship",
+      "Mistake_Details": "Her hobbies became your hobbies. Her friends became your friends. Her life became your life. You had no identity separate from her. When the relationship ended, you had nothing of your own left.",
+      "Mistake_Lesson": "Maintain your own interests. Your individuality keeps the relationship alive.",
+      "Mistake_Tag": "Identity"
+    },
+    "Mistake78": {
+      "Mistake_Title": "Holding Grudges and Never Fully Forgiving",
+      "Mistake_Details": "She apologized, and you said you forgave her, but you brought it up in every fight. You kept the offense alive and stored it as ammunition. You said you forgave but didn't actually move past it.",
+      "Mistake_Lesson": "Forgive or leave. Don't torture both of you with half-measures.",
+      "Mistake_Tag": "Forgiveness"
+    },
+    "Mistake79": {
+      "Mistake_Title": "Not Knowing the Difference Between Love and Attachment",
+      "Mistake_Details": "You thought you loved her, but really you were attached to the idea of having someone. You were afraid of the pain of losing her, not because you loved her, but because you feared being alone. That's not love.",
+      "Mistake_Lesson": "Love is wanting her to be happy. Attachment is needing her to fill your void.",
+      "Mistake_Tag": "Love"
+    },
+    "Mistake80": {
+      "Mistake_Title": "Dismissing Her Concerns Because 'You're Being Ridiculous'",
+      "Mistake_Details": "She brought up something that bothered her, and instead of listening, you told her she was being ridiculous or too sensitive. You made her feel like her concerns were invalid. That shut her down.",
+      "Mistake_Lesson": "If it bothers her, it's valid — even if it doesn't make sense to you.",
+      "Mistake_Tag": "Validation"
+    },
+    "Mistake81": {
+      "Mistake_Title": "Not Investing in Quality Time",
+      "Mistake_Details": "You were together, but you weren't really present. You scrolled on your phone, watched TV, or checked out mentally. You thought presence meant being in the same room. But quality time requires actual attention.",
+      "Mistake_Lesson": "Presence means undivided attention. Put the phone down.",
+      "Mistake_Tag": "Presence"
+    },
+    "Mistake82": {
+      "Mistake_Title": "Expecting Her to Forgive Immediately",
+      "Mistake_Details": "You hurt her, apologized, and expected her to move on right away. But healing takes time. You got frustrated with her 'bringing it up' when she was still processing the hurt. You wanted forgiveness without letting her feel her feelings.",
+      "Mistake_Lesson": "Forgiveness isn't instant. Respect her healing timeline.",
+      "Mistake_Tag": "Patience"
+    },
+    "Mistake83": {
+      "Mistake_Title": "Not Recognizing When the Relationship Became One-Sided",
+      "Mistake_Details": "You were doing all the work. You planned dates, you started conversations, you initiated physical affection, you fixed conflicts. She just received. But you didn't acknowledge that it was one-sided because you hoped it would change.",
+      "Mistake_Lesson": "If you're the only one trying, that's not a partnership.",
+      "Mistake_Tag": "Effort"
+    },
+    "Mistake84": {
+      "Mistake_Title": "Using Her Against Her",
+      "Mistake_Details": "She told you her insecurities, and in fights, you weaponized them. She told you what hurt her, and you used it to hurt her more. You used her vulnerabilities against her.",
+      "Mistake_Lesson": "What she trusts you with is sacred. Never use it as ammunition.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake85": {
+      "Mistake_Title": "Not Setting a Timeline for the Relationship",
+      "Mistake_Details": "You were together for years without discussing the future. Did you want to move in? Get married? Have kids? You just drifted along without any real direction. She got frustrated waiting for clarity that never came.",
+      "Mistake_Lesson": "Relationships need direction. Discuss where you're heading.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake86": {
+      "Mistake_Title": "Making Your Insecurities Her Responsibility to Manage",
+      "Mistake_Details": "You were insecure, so you needed constant reassurance from her. You checked in constantly, needed her validation, and made her responsible for managing your feelings. That's exhausting for her.",
+      "Mistake_Lesson": "Work on your insecurities. Don't make them her job.",
+      "Mistake_Tag": "Self-Work"
+    },
+    "Mistake87": {
+      "Mistake_Title": "Not Calling Out Disrespect in the Moment",
+      "Mistake_Details": "She said something disrespectful, and you let it slide. Then she did it again. By not addressing it immediately, you taught her that disrespecting you had no consequences.",
+      "Mistake_Lesson": "Set boundaries immediately. Otherwise, she'll keep crossing them.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake88": {
+      "Mistake_Title": "Forcing Intimacy When She Wasn't Interested",
+      "Mistake_Details": "She wasn't in the mood, and you kept pushing. You made advances she said no to. You didn't respect when she wasn't interested. That's not okay.",
+      "Mistake_Lesson": "No means no. Respect her body and her choices always.",
+      "Mistake_Tag": "Consent"
+    },
+    "Mistake89": {
+      "Mistake_Title": "Not Understanding Your Own Emotional Patterns",
+      "Mistake_Details": "You repeated the same relationship mistakes with different people. You didn't understand your own triggers, your attachment style, or why you chose the partners you did. You never did the inner work.",
+      "Mistake_Lesson": "Understand yourself first. Then choose better partners.",
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake90": {
+      "Mistake_Title": "Treating Disagreements Like You're Enemies",
+      "Mistake_Details": "When you disagreed, you treated it like a battle. You had to win. You were combative instead of collaborative. You forgot that you're on the same team.",
+      "Mistake_Lesson": "You're partners, not opponents. Approach conflicts as a team, not a fight.",
+      "Mistake_Tag": "Conflict Resolution"
+    },
+    "Mistake91": {
+      "Mistake_Title": "Not Appreciating Her Vulnerability",
+      "Mistake_Details": "She opened up and was vulnerable with you, and you made fun of her, dismissed her feelings, or used it against her. You showed her that being vulnerable wasn't safe. So she shut down.",
+      "Mistake_Lesson": "Vulnerability is a gift. Handle it with care.",
+      "Mistake_Tag": "Safety"
+    },
+    "Mistake92": {
+      "Mistake_Title": "Staying in Contact With Exes",
+      "Mistake_Details": "You told her you were 'just friends' with your exes, but you weren't. You texted them, hung out with them, kept them on the back burner. She felt threatened, and she had every right to.",
+      "Mistake_Lesson": "If she's uncomfortable with your exes, there's probably a reason.",
+      "Mistake_Tag": "Loyalty"
+    },
+    "Mistake93": {
+      "Mistake_Title": "Not Taking Accountability for Your Mental Health",
+      "Mistake_Details": "You had anxiety, depression, or trauma, and you made it her job to manage it. You lashed out when triggered and expected her to understand. Your mental health isn't an excuse for bad behavior.",
+      "Mistake_Lesson": "Get help for your mental health. Your partner isn't your therapist.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake94": {
+      "Mistake_Title": "Comparing Her to Other Women",
+      "Mistake_Details": "You mentioned how other women were prettier, funnier, or more interesting. You didn't realize you were telling her she wasn't enough. Those comparisons damaged her self-esteem and her trust in you.",
+      "Mistake_Lesson": "Keep other women out of your conversations about her.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake95": {
+      "Mistake_Title": "Not Discussing How to Handle Conflict Before It Happens",
+      "Mistake_Details": "You never talked about how you both prefer to handle disagreements. When conflict came, you defaulted to your own style. She needed to cool off; you needed to talk immediately. You clashed.",
+      "Mistake_Lesson": "Discuss conflict styles early. Know how to fight fair together.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake96": {
+      "Mistake_Title": "Not Accepting That Sometimes Love Isn't Enough",
+      "Mistake_Details": "You loved each other, but you were incompatible. You wanted different things, were at different life stages, or just weren't right for each other. But you thought love could fix it. Sometimes it can't.",
+      "Mistake_Lesson": "Love is necessary but not sufficient. Compatibility matters too.",
+      "Mistake_Tag": "Reality"
+    },
+    "Mistake97": {
+      "Mistake_Title": "Projecting Your Fears Onto Her",
+      "Mistake_Details": "You were afraid she'd cheat because you had cheated before. You were afraid she'd leave because someone left you. You projected your fears onto her and made her pay for your past.",
+      "Mistake_Lesson": "Your fears are yours to work through, not hers to manage.",
+      "Mistake_Tag": "Projection"
+    },
+    "Mistake98": {
+      "Mistake_Title": "Not Knowing When to Walk Away",
+      "Mistake_Details": "You stayed way too long. The relationship was toxic, unhealthy, or just wrong — but you kept trying, kept hoping, kept investing. You didn't know that sometimes the most loving thing is to let go.",
+      "Mistake_Lesson": "Sometimes loving her means leaving. Know when to go.",
+      "Mistake_Tag": "Wisdom"
+    },
+    "Mistake99": {
+      "Mistake_Title": "Blaming Her for Your Own Unhappiness in the Relationship",
+      "Mistake_Details": "You weren't happy, and you made it her fault. But she didn't make you unhappy — the relationship did. Or more accurately, your expectations and choices did. You gave her responsibility for your emotional state.",
+      "Mistake_Lesson": "You're responsible for your own happiness. She's not your therapist.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake100": {
+      "Mistake_Title": "Not Learning From Past Relationship Mistakes",
+      "Mistake_Details": "You repeated the same patterns with every person. You had the same fights, made the same choices, and created the same problems. You didn't reflect, didn't heal, and didn't grow.",
+      "Mistake_Lesson": "Each relationship is a lesson. Learn it, or repeat it.",
+      "Mistake_Tag": "Growth"
+    },
+    "Mistake101": {
+      "Mistake_Title": "Guilt-Tripping Her Into Staying or Forgiving",
+      "Mistake_Details": "When she wanted to leave or needed space, you made her feel responsible for your pain. You threatened to hurt yourself, got drunk, or acted devastated to keep her from leaving. That's emotional manipulation.",
+      "Mistake_Lesson": "If she wants to leave, let her. Guilt-tripping keeps you both trapped.",
+      "Mistake_Tag": "Manipulation"
+    },
+    "Mistake102": {
+      "Mistake_Title": "Not Recognizing Emotional Cheating as a Betrayal",
+      "Mistake_Details": "You had an emotional connection with someone else — deep conversations, flirtation, emotional intimacy. You told yourself it was 'nothing physical.' But emotional cheating is still cheating and still a betrayal.",
+      "Mistake_Lesson": "Protect the emotional intimacy in your relationship first.",
+      "Mistake_Tag": "Loyalty"
+    },
+    "Mistake103": {
+      "Mistake_Title": "Expecting Her to Change Who She Is After the Relationship Starts",
+      "Mistake_Details": "You accepted who she was, dated her, got comfortable — then asked her to change. Her family was too loud, her job wasn't ambitious enough, her style wasn't your style. You wanted her to transform into your ideal.",
+      "Mistake_Lesson": "Accept her as she is. If you can't, don't date her.",
+      "Mistake_Tag": "Acceptance"
+    },
+    "Mistake104": {
+      "Mistake_Title": "Not Recognizing Passive-Aggressive Behavior",
+      "Mistake_Details": "She didn't say she was mad; she just acted cold. She didn't tell you something was wrong; she just withdrew. You were left confused, trying to decode her behavior. Passive aggression isn't communication — it's punishment.",
+      "Mistake_Lesson": "If she won't use words, that's a problem that needs addressing.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake105": {
+      "Mistake_Title": "Making the Relationship Your Entire Identity",
+      "Mistake_Details": "Everything about you was tied to the relationship. Your worth, your status, your identity — all of it came from being in the relationship. When it ended, you didn't know who you were.",
+      "Mistake_Lesson": "You are whole on your own. The relationship enhances that, not creates it.",
+      "Mistake_Tag": "Identity"
+    },
+    "Mistake106": {
+      "Mistake_Title": "Not Asking for What You Need Directly",
+      "Mistake_Details": "You wanted her to be more affectionate, but you never said it. You hoped she'd surprise you, hoped she'd figure it out. Instead, you got resentful that she wasn't meeting needs you never expressed.",
+      "Mistake_Lesson": "Ask for what you need. She can't read your mind.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake107": {
+      "Mistake_Title": "Disrespecting Her In Front of Others",
+      "Mistake_Details": "You made jokes at her expense in front of friends. You undermined her in public. You didn't defend her when someone else disrespected her. Public disrespect is worse than private disrespect.",
+      "Mistake_Lesson": "If you respect her, you defend her everywhere — not just in private.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake108": {
+      "Mistake_Title": "Not Noticing When You've Become the Problem",
+      "Mistake_Details": "You blamed her for everything — she was too needy, too emotional, too demanding. But you never looked in the mirror. You were the one being dismissive, unavailable, and unkind. You were the problem.",
+      "Mistake_Lesson": "Sometimes the problem isn't her. It's you.",
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake109": {
+      "Mistake_Title": "Using Substance Abuse to Avoid Relationship Problems",
+      "Mistake_Details": "Instead of dealing with conflict or unhappiness, you got drunk or high. You numbed yourself instead of addressing issues. Avoidance through substances destroys relationships.",
+      "Mistake_Lesson": "Face your problems sober. Running away doesn't fix anything.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake110": {
+      "Mistake_Title": "Not Understanding That Actions Speak Louder Than Promises",
+      "Mistake_Details": "You promised to change, promised to be better, promised things would be different. But you kept doing the same things. Your words meant nothing because your actions showed the truth.",
+      "Mistake_Lesson": "Show, don't tell. Words without action are lies.",
+      "Mistake_Tag": "Integrity"
     }
+
 
 
 
