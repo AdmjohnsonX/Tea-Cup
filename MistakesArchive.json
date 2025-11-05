@@ -667,7 +667,309 @@
       "Mistake_Details": "You promised to change, promised to be better, promised things would be different. But you kept doing the same things. Your words meant nothing because your actions showed the truth.",
       "Mistake_Lesson": "Show, don't tell. Words without action are lies.",
       "Mistake_Tag": "Integrity"
+    },
+
+    "Mistake111": {
+      "Mistake_Title": "Not Taking Responsibility for Your Own Growth",
+      "Mistake_Details": "You expected her to help you become a better person. Instead of working on yourself, you looked to her for motivation, validation, and transformation. Your growth is your job, not hers.",
+      "Mistake_Lesson": "Grow yourself. A partner can support, but she can't do the work for you.",
+      "Mistake_Tag": "Self-Development"
+    },
+    "Mistake112": {
+      "Mistake_Title": "Creating Unnecessary Drama to Keep Things Exciting",
+      "Mistake_Details": "Stable, peaceful relationships felt boring to you. So you'd start fights, bring up old issues, or create conflict just to feel something. You mistook turbulence for passion.",
+      "Mistake_Lesson": "Healthy relationships are calm. If you need chaos, work on yourself.",
+      "Mistake_Tag": "Stability"
+    },
+    "Mistake113": {
+      "Mistake_Title": "Not Having Hard Conversations About Religion or Values",
+      "Mistake_Details": "You had different beliefs — about God, politics, how to live life. But you avoided talking about it because conflict felt uncomfortable. Eventually, these fundamental differences became dealbreakers.",
+      "Mistake_Lesson": "Know her values early. Compatibility in core beliefs matters.",
+      "Mistake_Tag": "Compatibility"
+    },
+    "Mistake114": {
+      "Mistake_Title": "Assuming She Owes You Emotional Labor",
+      "Mistake_Details": "You expected her to always be available to listen, support, and comfort you. When she was tired or needed her own space, you felt betrayed. Her emotional energy isn't your personal resource.",
+      "Mistake_Lesson": "Her energy is hers. Don't treat it like you're entitled to it.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake115": {
+      "Mistake_Title": "Not Recognizing Gaslighting When It's Happening",
+      "Mistake_Details": "She'd deny things she clearly said or did. She'd make you question your own memory and perception. You felt crazy, but you didn't realize she was manipulating you on purpose.",
+      "Mistake_Lesson": "Trust your reality. If she makes you doubt it constantly, that's abuse.",
+      "Mistake_Tag": "Red Flags"
+    },
+    "Mistake116": {
+      "Mistake_Title": "Expecting Her to Help You Process Your Trauma",
+      "Mistake_Details": "You dumped all your emotional baggage on her and expected her to help you sort through it. You made her your unpaid therapist. That's not fair to her.",
+      "Mistake_Lesson": "Get professional help for your trauma. She's not equipped to heal you.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake117": {
+      "Mistake_Title": "Not Respecting Her No",
+      "Mistake_Details": "When she said no to something — a date idea, a sexual advance, a commitment — you kept pushing. You tried to negotiate or convince her to change her mind. Her no meant no.",
+      "Mistake_Lesson": "No is a complete sentence. Respect it the first time.",
+      "Mistake_Tag": "Consent"
+    },
+    "Mistake118": {
+      "Mistake_Title": "Treating Her Like She's Your Mother",
+      "Mistake_Details": "You expected her to take care of you — clean for you, cook for you, manage your life. You acted like a child who needed managing. She became your caretaker, not your partner.",
+      "Mistake_Lesson": "Be an adult. She's your partner, not your mother.",
+      "Mistake_Tag": "Maturity"
+    },
+    "Mistake119": {
+      "Mistake_Title": "Not Admitting When You're Jealous or Insecure",
+      "Mistake_Details": "Instead of being honest about your jealousy, you made accusations or became cold. You took your insecurity out on her instead of owning it. She couldn't help you if she didn't know what was really wrong.",
+      "Mistake_Lesson": "Be vulnerable. Say 'I'm feeling insecure.' Don't act it out.",
+      "Mistake_Tag": "Vulnerability"
+    },
+    "Mistake120": {
+      "Mistake_Title": "Not Setting Financial Boundaries Early",
+      "Mistake_Details": "She asked to borrow money and you gave it. She asked again, and you gave it again. Before you knew it, you'd loaned her thousands and resented her for it. Financial imbalance breeds resentment.",
+      "Mistake_Lesson": "Money conversations matter. Set boundaries early.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake121": {
+      "Mistake_Title": "Confusing Familiarity With Love",
+      "Mistake_Details": "You'd been together for so long that comfortable felt like love. But you weren't in love — you were just used to each other. You stayed because it was easy, not because it was right.",
+      "Mistake_Lesson": "Comfort isn't love. Make sure you have both.",
+      "Mistake_Tag": "Love"
+    },
+    "Mistake122": {
+      "Mistake_Title": "Not Showing Physical Affection Consistently",
+      "Mistake_Details": "You were affectionate at the beginning, but over time it faded. You rarely kissed her, hugged her, or touched her. She felt disconnected and unloved, even though you 'loved' her.",
+      "Mistake_Lesson": "Physical affection is an ongoing need, not just a beginning-stage thing.",
+      "Mistake_Tag": "Intimacy"
+    },
+    "Mistake123": {
+      "Mistake_Title": "Expecting Her to Fit Into Your Life Without Compromise",
+      "Mistake_Details": "She had to adjust to your schedule, your friends, your family, your hobbies. You didn't bend. A relationship requires both people to shift and make space.",
+      "Mistake_Lesson": "Relationships are about creating a shared life, not fitting someone into yours.",
+      "Mistake_Tag": "Compromise"
+    },
+    "Mistake124": {
+      "Mistake_Title": "Not Discussing Family Planning Early Enough",
+      "Mistake_Details": "One of you wanted kids; the other didn't. You didn't discuss it until years in. By then, resentment had built because one person felt their future was being stolen.",
+      "Mistake_Lesson": "Discuss whether you want kids before you get serious. It's a dealbreaker.",
+      "Mistake_Tag": "Compatibility"
+    },
+    "Mistake125": {
+      "Mistake_Title": "Acting Like a Martyr in the Relationship",
+      "Mistake_Details": "You constantly reminded her of everything you sacrificed, everything you gave up for her. You threw it in her face during fights. That's not love — that's keeping score and weaponizing your choices.",
+      "Mistake_Lesson": "If you're making sacrifices you resent, that's on you. Don't use them as weapons.",
+      "Mistake_Tag": "Resentment"
+    },
+    "Mistake126": {
+      "Mistake_Title": "Not Having Your Own Coping Mechanisms",
+      "Mistake_Details": "When you were stressed, you relied entirely on her to help you decompress. You had no hobbies, no outlets, no way to self-soothe. You made her responsible for your emotional well-being.",
+      "Mistake_Lesson": "Have your own ways to manage stress. Don't outsource your coping.",
+      "Mistake_Tag": "Independence"
+    },
+    "Mistake127": {
+      "Mistake_Title": "Dismissing Her Accomplishments as Unimportant",
+      "Mistake_Details": "She got a promotion, finished a project, hit a personal goal — but you didn't make a big deal about it. You didn't celebrate her. She felt like her wins didn't matter to you.",
+      "Mistake_Lesson": "Celebrate her. Show that her accomplishments matter to you.",
+      "Mistake_Tag": "Support"
+    },
+    "Mistake128": {
+      "Mistake_Title": "Not Knowing Your Love Language or Hers",
+      "Mistake_Details": "She needed quality time, but you showed love through gifts. She needed words of affirmation, but you thought your presence was enough. You were both speaking different languages and feeling unheard.",
+      "Mistake_Lesson": "Learn her love language. Show love in the way she receives it.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake129": {
+      "Mistake_Title": "Treating Breakups Like You Get Another Chance",
+      "Mistake_Details": "You'd break up, wait a week, and reach out like nothing happened. You expected her to take you back. You didn't respect the breakup because you didn't think it was final.",
+      "Mistake_Lesson": "When she leaves, she leaves. Respect that.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake130": {
+      "Mistake_Title": "Not Having Difficult Conversations About Sexual Compatibility",
+      "Mistake_Details": "You had different needs — different frequencies, different preferences, different boundaries. But you never talked about it openly. Sexual incompatibility silently destroyed the relationship.",
+      "Mistake_Lesson": "Discuss sex openly. Sexual compatibility matters.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake131": {
+      "Mistake_Title": "Weaponizing Her Vulnerabilities in Arguments",
+      "Mistake_Details": "She opened up about her insecurities. Later, in a fight, you brought them up to hurt her. You used her trust against her. That's not fair fighting — that's abuse.",
+      "Mistake_Lesson": "What she trusts you with stays safe. Never weaponize intimacy.",
+      "Mistake_Tag": "Trust"
+    },
+    "Mistake132": {
+      "Mistake_Title": "Not Respecting Her Professional Boundaries",
+      "Mistake_Details": "You'd call her constantly while she was at work. You got upset when she couldn't text back immediately. You didn't respect that she had a job and couldn't be available on your timeline.",
+      "Mistake_Lesson": "Respect her work time. She has a life outside of you.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake133": {
+      "Mistake_Title": "Expecting Her to Want Sex When You Want It",
+      "Mistake_Details": "Your desire for sex didn't align with hers. When she wasn't interested, you got upset or made her feel guilty. You didn't respect that her body is hers, and she gets to decide.",
+      "Mistake_Lesson": "Consent is continuous. No means no, always.",
+      "Mistake_Tag": "Consent"
+    },
+    "Mistake134": {
+      "Mistake_Title": "Criticizing Her Body or Appearance",
+      "Mistake_Details": "You made comments about her weight, her clothes, her hair. You meant it as 'helpful,' but it made her feel inadequate and unattractive — to you, the person who should make her feel beautiful.",
+      "Mistake_Lesson": "Never criticize her body. Especially not to her face.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake135": {
+      "Mistake_Title": "Not Asking Her About Her Day or Her Life",
+      "Mistake_Details": "Conversations were always about you. Your problems, your work, your interests. You never asked about her day or showed genuine interest in her life. She felt invisible.",
+      "Mistake_Lesson": "Show interest. Ask about her. Listen to the answer.",
+      "Mistake_Tag": "Attention"
+    },
+    "Mistake136": {
+      "Mistake_Title": "Making Promises You Can't Keep",
+      "Mistake_Details": "You promised the world — trips you couldn't afford, commitments you couldn't make, a future you weren't sure about. When you didn't follow through, she lost trust in your word.",
+      "Mistake_Lesson": "Only promise what you can deliver. Your word is your bond.",
+      "Mistake_Tag": "Integrity"
+    },
+    "Mistake137": {
+      "Mistake_Title": "Not Recognizing When She's Losing Interest",
+      "Mistake_Details": "She was pulling away, her texts got shorter, she seemed less engaged. But you didn't ask or address it. You ignored the signs until she finally said she wanted to leave.",
+      "Mistake_Lesson": "Notice the shift. Address it before she's completely gone.",
+      "Mistake_Tag": "Awareness"
+    },
+    "Mistake138": {
+      "Mistake_Title": "Expecting Her to Be Everything to You",
+      "Mistake_Details": "She was your girlfriend, your therapist, your best friend, your entertainment, your motivation. You had no one else. That's too much pressure for one person.",
+      "Mistake_Lesson": "Have a full life with friends, hobbies, and support outside of her.",
+      "Mistake_Tag": "Balance"
+    },
+    "Mistake139": {
+      "Mistake_Title": "Not Taking Mental Health Seriously in the Relationship",
+      "Mistake_Details": "You struggled with anxiety, depression, or other issues but refused to get help. You expected her to support you while you did nothing to help yourself. That's unfair.",
+      "Mistake_Lesson": "Get professional help. Your mental health affects the relationship.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake140": {
+      "Mistake_Title": "Allowing Substance Abuse to Control Your Behavior",
+      "Mistake_Details": "When you drank or used, your personality changed. You became mean, absent, or unreliable. The relationship suffered because of your choices, and she couldn't fix it.",
+      "Mistake_Lesson": "If substances control you, get help before entering a relationship.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake141": {
+      "Mistake_Title": "Not Knowing When to Apologize Without Conditions",
+      "Mistake_Details": "Your apologies always had a 'but.' 'I'm sorry, but you made me do it.' 'I'm sorry, but you're overreacting.' A real apology has no conditions.",
+      "Mistake_Lesson": "Apologize fully. No 'buts.' No explanations that excuse your behavior.",
+      "Mistake_Tag": "Accountability"
+    },
+    "Mistake142": {
+      "Mistake_Title": "Expecting Her to Be Grateful for Basic Decency",
+      "Mistake_Details": "You did basic things like show up or listen and expected her to be grateful. You didn't understand that basic respect and attention aren't gifts — they're the bare minimum.",
+      "Mistake_Lesson": "Show up. Listen. That's what you should do. Don't expect a medal for it.",
+      "Mistake_Tag": "Expectations"
+    },
+    "Mistake143": {
+      "Mistake_Title": "Not Having Standards for How You're Treated Either",
+      "Mistake_Details": "You accepted disrespect from her because you didn't think you deserved better. You stayed in a relationship where you weren't valued, not realizing you deserve respect too.",
+      "Mistake_Lesson": "You deserve to be treated well. Don't stay where you're not valued.",
+      "Mistake_Tag": "Self-Worth"
+    },
+    "Mistake144": {
+      "Mistake_Title": "Refusing to Admit the Relationship Was Wrong",
+      "Mistake_Details": "Deep down, you knew it was toxic, unhealthy, or just wrong. But you couldn't admit it. Admitting it meant admitting you made a mistake, and that felt like failure.",
+      "Mistake_Lesson": "Staying in a wrong relationship is the real failure. Leaving is strength.",
+      "Mistake_Tag": "Honesty"
+    },
+    "Mistake145": {
+      "Mistake_Title": "Not Prioritizing Her Happiness",
+      "Mistake_Details": "You made decisions based on what made you happy, what was convenient for you, what served you. Her happiness didn't factor in. That's selfish.",
+      "Mistake_Lesson": "In a partnership, her happiness should matter as much as yours.",
+      "Mistake_Tag": "Partnership"
+    },
+    "Mistake146": {
+      "Mistake_Title": "Creating an Us-vs-Them Dynamic With Her Family",
+      "Mistake_Details": "You positioned yourself as against her family. You got mad if she wanted to see them, criticized them constantly, or made her choose. You isolated her.",
+      "Mistake_Lesson": "Her family will always be part of her life. Accept that.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake147": {
+      "Mistake_Title": "Not Understanding That She's Not Your Reward",
+      "Mistake_Details": "You treated the relationship like something you 'earned' for being good or working hard. But she's not a prize. She's a person who deserves to choose you freely.",
+      "Mistake_Lesson": "She's not a reward for your good behavior. She's a choice.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake148": {
+      "Mistake_Title": "Expecting Her to Change Her Values for You",
+      "Mistake_Details": "She didn't want marriage or kids. You said you were fine with it, but deep down, you expected her to change her mind. When she didn't, you felt betrayed.",
+      "Mistake_Lesson": "Accept her as she is. Don't date expecting her to transform.",
+      "Mistake_Tag": "Acceptance"
+    },
+    "Mistake149": {
+      "Mistake_Title": "Not Celebrating Milestones or Special Moments",
+      "Mistake_Details": "Anniversaries, birthdays, achievements — you forgot or didn't make a big deal about them. She felt like these moments didn't matter to you. They did to her.",
+      "Mistake_Lesson": "Remember and celebrate the moments that matter to her.",
+      "Mistake_Tag": "Attention"
+    },
+    "Mistake150": {
+      "Mistake_Title": "Refusing to Evolve or Grow Within the Relationship",
+      "Mistake_Details": "She changed, she grew, she evolved — but you stayed stagnant. You refused to work on yourself or adapt to her growth. Eventually, you grew apart.",
+      "Mistake_Lesson": "Grow together. If you're not evolving, the relationship stalls.",
+      "Mistake_Tag": "Growth"
+    },
+    "Mistake151": {
+      "Mistake_Title": "Not Having a Plan for Your Future Together",
+      "Mistake_Details": "You just drifted along with no real plan. Where were you heading? Did you want to move in together, get married, travel? You never discussed it, so she felt like you weren't serious.",
+      "Mistake_Lesson": "Have a vision for the future. Discuss where you're headed.",
+      "Mistake_Tag": "Planning"
+    },
+    "Mistake152": {
+      "Mistake_Title": "Allowing Resentment to Build Without Addressing It",
+      "Mistake_Details": "Small annoyances turned into big resentments because you never addressed them. By the time you finally spoke up, you were angry and the damage was done.",
+      "Mistake_Lesson": "Address issues early before resentment takes over.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake153": {
+      "Mistake_Title": "Not Understanding That Vulnerability Is Strength",
+      "Mistake_Details": "You thought being vulnerable was weak. So you stayed closed off, never let her in, never showed your true self. She couldn't love the real you because she never got to know you.",
+      "Mistake_Lesson": "Vulnerability builds intimacy. Being open is brave, not weak.",
+      "Mistake_Tag": "Vulnerability"
+    },
+    "Mistake154": {
+      "Mistake_Title": "Making It All About What You Need",
+      "Mistake_Details": "Every conversation circled back to you. Every decision was about your needs. She was just a supporting character in your story, not a main character in her own.",
+      "Mistake_Lesson": "Make space for her needs. Relationships are about both of you.",
+      "Mistake_Tag": "Balance"
+    },
+    "Mistake155": {
+      "Mistake_Title": "Not Recognizing Her Worth Before It's Too Late",
+      "Mistake_Details": "You took her for granted. You didn't appreciate her until she was gone. Only then did you realize what you'd lost.",
+      "Mistake_Lesson": "Appreciate her now. Don't wait until she leaves to see her value.",
+      "Mistake_Tag": "Appreciation"
+    },
+    "Mistake156": {
+      "Mistake_Title": "Expecting Her to Solve Problems You Created",
+      "Mistake_Details": "You made a mess of something — at work, with friends, in your family — and expected her to help you fix it. Your problems became her problems.",
+      "Mistake_Lesson": "Own your messes. Don't dump them on her to solve.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake157": {
+      "Mistake_Title": "Not Setting Emotional Availability Standards",
+      "Mistake_Details": "She was emotionally unavailable — cold, distant, unresponsive to your needs — but you stayed anyway. You hoped she'd change. Emotional unavailability doesn't improve without work.",
+      "Mistake_Lesson": "Don't date someone hoping they'll become emotionally available. They won't.",
+      "Mistake_Tag": "Standards"
+    },
+    "Mistake158": {
+      "Mistake_Title": "Treating Commitment Like a Trap Instead of a Gift",
+      "Mistake_Details": "You viewed commitment as losing your freedom instead of gaining her. You acted resentful about being with one person. That made her feel like a burden.",
+      "Mistake_Lesson": "If you see commitment as a trap, you're with the wrong person.",
+      "Mistake_Tag": "Mindset"
+    },
+    "Mistake159": {
+      "Mistake_Title": "Not Being Willing to Fight for the Relationship",
+      "Mistake_Details": "When things got hard, you gave up. You didn't try to fix it, didn't have difficult conversations, didn't put in effort. You just let it die.",
+      "Mistake_Lesson": "Healthy relationships require effort. Show up when things get hard.",
+      "Mistake_Tag": "Effort"
+    },
+    "Mistake160": {
+      "Mistake_Title": "Never Truly Forgiving Yourself for Your Mistakes",
+      "Mistake_Details": "You made a mistake in the relationship, and you never forgave yourself. You carried guilt, shame, and self-punishment into every interaction with her. That energy poisoned the relationship.",
+      "Mistake_Lesson": "Forgive yourself. Work to be better. Don't carry the shame forever.",
+      "Mistake_Tag": "Self-Compassion"
     }
+
 
 
 
