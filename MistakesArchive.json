@@ -968,7 +968,309 @@
       "Mistake_Details": "You made a mistake in the relationship, and you never forgave yourself. You carried guilt, shame, and self-punishment into every interaction with her. That energy poisoned the relationship.",
       "Mistake_Lesson": "Forgive yourself. Work to be better. Don't carry the shame forever.",
       "Mistake_Tag": "Self-Compassion"
+    },
+
+    "Mistake161": {
+      "Mistake_Title": "Not Understanding Your Own Attachment Style",
+      "Mistake_Details": "You were anxious, avoidant, or disorganized in your attachment, but you didn't know it. You kept repeating the same unhealthy patterns with different people because you never understood how you attach.",
+      "Mistake_Lesson": "Learn your attachment style. Understanding it helps you choose better partners.",
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake162": {
+      "Mistake_Title": "Expecting the Spark to Last Forever",
+      "Mistake_Details": "The early relationship was electric — constant butterflies, can't-keep-your-hands-off-each-other energy. When that faded into something deeper and calmer, you thought the love was gone.",
+      "Mistake_Lesson": "The spark evolves. Early passion becomes lasting intimacy if you let it."
+      "Mistake_Tag": "Expectations"
+    },
+    "Mistake163": {
+      "Mistake_Title": "Not Having Boundaries Around Social Media",
+      "Mistake_Details": "You posted everything about the relationship online. You tagged her in posts she didn't ask to be in. You broadcasted your private moments. Your relationship became a performance for an audience.",
+      "Mistake_Lesson": "Keep some things private. Not everything needs to be shared online.",
+      "Mistake_Tag": "Privacy"
+    },
+    "Mistake164": {
+      "Mistake_Title": "Expecting Her to Like All Your Friends",
+      "Mistake_Details": "You had friends who were mean to her, didn't respect her, or made her uncomfortable. You expected her to just accept them. But she doesn't have to be friends with people who don't treat her well.",
+      "Mistake_Lesson": "Your friends should respect her. If they don't, that's a problem.",
+      "Mistake_Tag": "Loyalty"
+    },
+    "Mistake165": {
+      "Mistake_Title": "Not Recognizing Emotional Unavailability as a Dealbreaker",
+      "Mistake_Details": "She couldn't do emotional intimacy. She shut down during vulnerable moments. She couldn't articulate feelings. You thought you could help her open up, but you can't force emotional availability.",
+      "Mistake_Lesson": "Emotional availability is non-negotiable. Don't date someone in the hopes they'll change."
+      "Mistake_Tag": "Compatibility"
+    },
+    "Mistake166": {
+      "Mistake_Title": "Making Major Life Decisions Without Her Input",
+      "Mistake_Details": "You decided to move, change jobs, or make a big commitment without discussing it with her. You treated the relationship like it wasn't part of your life decision-making.",
+      "Mistake_Lesson": "In a partnership, major decisions are made together.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake167": {
+      "Mistake_Title": "Not Accepting That She Might Not Want to Be Saved",
+      "Mistake_Details": "She had problems — emotional baggage, bad habits, unresolved trauma. You thought if you loved her enough, you could fix her. But she didn't ask to be saved, and your savior complex wasn't love.",
+      "Mistake_Lesson": "You can't save someone who doesn't want to be saved. That's her journey.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake168": {
+      "Mistake_Title": "Withholding Love as Punishment",
+      "Mistake_Details": "When she upset you, you withdrew affection. You stopped texting, stopped being warm, stopped showing love until she apologized or complied. That's emotional abuse.",
+      "Mistake_Lesson": "Don't weaponize your love. Withholding affection is punishment, not communication.",
+      "Mistake_Tag": "Manipulation"
+    },
+    "Mistake169": {
+      "Mistake_Title": "Not Understanding That Quiet Doesn't Mean Agreement",
+      "Mistake_Details": "She stayed quiet during conflict, and you assumed she agreed with you or was okay with the outcome. But she was shutting down, not consenting. Silence isn't agreement.",
+      "Mistake_Lesson": "Ask if she's okay with the resolution. Don't assume her silence means yes.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake170": {
+      "Mistake_Title": "Expecting Her to Be Less Ambitious Than You",
+      "Mistake_Details": "She was driven and career-focused, and you subtly (or not so subtly) expected her to prioritize the relationship over her goals. You resented that she didn't make you her number one.",
+      "Mistake_Lesson": "Support her ambition. Her success isn't a threat to your relationship.",
+      "Mistake_Tag": "Support"
+    },
+    "Mistake171": {
+      "Mistake_Title": "Not Having Conversations About Exes",
+      "Mistake_Details": "You avoided talking about past relationships. She had questions about your exes, but you shut down the conversation. That left her feeling like she couldn't ask about your past.",
+      "Mistake_Lesson": "Be honest about your exes. Transparency builds trust.",
+      "Mistake_Tag": "Trust"
+    },
+    "Mistake172": {
+      "Mistake_Title": "Treating Her Like She Owes You Affection",
+      "Mistake_Details": "You bought her gifts, took her on dates, did nice things — and then expected affection or sex as payment. That's transactional, not love. She doesn't owe you anything for your kindness.",
+      "Mistake_Lesson": "Do nice things because you want to, not to earn her affection.",
+      "Mistake_Tag": "Respect"
+    },
+    "Mistake173": {
+      "Mistake_Title": "Not Addressing Incompatibility Early",
+      "Mistake_Details": "You knew you wanted different things, but you stayed and hoped it would work out. Instead of breaking up, you invested more, got more attached, and made the inevitable split more painful.",
+      "Mistake_Lesson": "Incompatibility is a dealbreaker. Address it before you get too invested.",
+      "Mistake_Tag": "Honesty"
+    },
+    "Mistake174": {
+      "Mistake_Title": "Expecting Her to Do Emotional Labor in the Relationship",
+      "Mistake_Details": "You expected her to manage your feelings, remember your preferences, know when you needed support, and anticipate your needs. You made her your emotional manager.",
+      "Mistake_Lesson": "Communicate your needs. Don't expect her to manage your emotions.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake175": {
+      "Mistake_Title": "Not Recognizing When the Relationship Became Transactional",
+      "Mistake_Details": "You were together for convenience or comfort, not love. You were using each other — she for companionship, you for sex or emotional support. But you called it a relationship.",
+      "Mistake_Lesson": "Transactional relationships aren't real relationships. Choose genuine connection.",
+      "Mistake_Tag": "Authenticity"
+    },
+    "Mistake176": {
+      "Mistake_Title": "Making Career Decisions Based Solely on the Relationship",
+      "Mistake_Details": "You turned down a job or didn't pursue your goals because it might affect the relationship. You sacrificed your future for her. That built resentment.",
+      "Mistake_Lesson": "Build your life. She should fit into it, not be the reason you don't pursue it.",
+      "Mistake_Tag": "Balance"
+    },
+    "Mistake177": {
+      "Mistake_Title": "Not Having a Sense of Humor About Mistakes",
+      "Mistake_Details": "When you messed up, you got defensive instead of laughing at yourself. You made serious apologies when sometimes she just needed you to acknowledge the mistake with humor.",
+      "Mistake_Lesson": "Humor and humility go a long way. Be able to laugh at yourself.",
+      "Mistake_Tag": "Flexibility"
+    },
+    "Mistake178": {
+      "Mistake_Title": "Expecting Her to Guess What Romance Means to You",
+      "Mistake_Details": "You wanted her to be romantic, but you never told her what that looked like to you. So she tried and missed. Then you felt unappreciated because she didn't figure it out.",
+      "Mistake_Lesson": "Tell her what romance looks like to you. Don't make her guess.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake179": {
+      "Mistake_Title": "Not Celebrating That She Chose You Every Day",
+      "Mistake_Details": "You took for granted that she picked you. Every day, she could have left or looked elsewhere. But you acted like her choosing you was a given.",
+      "Mistake_Lesson": "Appreciate that she chooses you. Don't take it for granted.",
+      "Mistake_Tag": "Gratitude"
+    },
+    "Mistake180": {
+      "Mistake_Title": "Expecting the Relationship to Heal Your Trauma",
+      "Mistake_Details": "You had unprocessed trauma, and you expected the relationship to fix you. You leaned on her for all your healing. But she's not your therapist, and the relationship can't replace professional help.",
+      "Mistake_Lesson": "Do your own healing work. The relationship can support, not save.",
+      "Mistake_Tag": "Responsibility"
+    },
+    "Mistake181": {
+      "Mistake_Title": "Not Accepting Compliments or Love From Her",
+      "Mistake_Details": "When she said she loved you or complimented you, you deflected or minimized it. You didn't accept her affection. That made her feel rejected every time she tried to express love.",
+      "Mistake_Lesson": "Accept her love. When she gives it, receive it fully.",
+      "Mistake_Tag": "Acceptance"
+    },
+    "Mistake182": {
+      "Mistake_Title": "Making the Breakup About You Losing",
+      "Mistake_Details": "When the relationship ended, you saw it as your loss — your failure, your rejection. You didn't consider that you both might have needed something different.",
+      "Mistake_Lesson": "Breakups aren't wins or losses. They're transitions that reveal incompatibility.",
+      "Mistake_Tag": "Perspective"
+    },
+    "Mistake183": {
+      "Mistake_Title": "Not Setting Time Aside for Just Talking",
+      "Mistake_Details": "You were always doing something together — watching TV, scrolling, being distracted. You rarely just sat and talked. Real intimacy comes from conversation.",
+      "Mistake_Lesson": "Put the phone down. Talk without distractions. It matters.",
+      "Mistake_Tag": "Presence"
+    },
+    "Mistake184": {
+      "Mistake_Title": "Expecting Her to Make You Feel Complete",
+      "Mistake_Details": "You felt empty inside, and you looked to her to make you whole. She couldn't. No one can. She was meant to enhance your life, not complete it.",
+      "Mistake_Lesson": "Complete yourself first. Then share that completeness with someone."
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake185": {
+      "Mistake_Title": "Not Discussing Household Responsibilities",
+      "Mistake_Details": "You moved in together but never discussed who does what. She ended up doing most of it and resented you for being lazy. Clear expectations prevent resentment.",
+      "Mistake_Lesson": "Discuss household responsibilities. Split them fairly.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake186": {
+      "Mistake_Title": "Prioritizing Your Comfort Over Her Feelings",
+      "Mistake_Details": "She was upset about something, and instead of listening, you tried to make yourself comfortable. You minimized her feelings so you wouldn't have to sit with discomfort.",
+      "Mistake_Lesson": "Be present to her pain. Don't minimize it to make yourself comfortable.",
+      "Mistake_Tag": "Empathy"
+    },
+    "Mistake187": {
+      "Mistake_Title": "Not Understanding That Love Languages Are Different",
+      "Mistake_Details": "She needed acts of service; you showed love through words. She needed physical touch; you showed love through gifts. You were speaking different languages and both felt unloved.",
+      "Mistake_Lesson": "Learn her love language. Show love in the way she receives it.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake188": {
+      "Mistake_Title": "Keeping Secrets That Should Be Shared",
+      "Mistake_Details": "You had a secret that affected the relationship — a lie, a past action, a hidden connection with someone else. You didn't tell her because you didn't want consequences.",
+      "Mistake_Lesson": "Honesty is the foundation. Secrets destroy trust.",
+      "Mistake_Tag": "Trust"
+    },
+    "Mistake189": {
+      "Mistake_Title": "Not Understanding That Compromise Isn't Always 50/50",
+      "Mistake_Details": "You refused to budge because compromise felt like losing. But sometimes, on certain issues, giving 80% to her 20% is what's needed. Not everything is a 50/50 split.",
+      "Mistake_Lesson": "Flexibility matters. Sometimes compromise means giving more on certain issues.",
+      "Mistake_Tag": "Flexibility"
+    },
+    "Mistake190": {
+      "Mistake_Title": "Expecting Her to Overlook Your Character Flaws",
+      "Mistake_Details": "You were selfish, dishonest, or unkind — and you expected her to accept that as part of who you are. But character flaws are things you can work on, not things she has to tolerate.",
+      "Mistake_Lesson": "Work on yourself. Don't ask her to accept who you are if you're not being good."
+      "Mistake_Tag": "Growth"
+    },
+    "Mistake191": {
+      "Mistake_Title": "Not Taking Her Concerns Seriously",
+      "Mistake_Details": "She voiced a concern about the relationship, and you dismissed it as her being too sensitive or overthinking. But if she's concerned, there's usually a reason. Listen.",
+      "Mistake_Lesson": "If she's worried, listen. Her concerns matter.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake192": {
+      "Mistake_Title": "Expecting Her to Change How She Communicates",
+      "Mistake_Details": "She was direct; you wanted her to be softer. She needed time to process; you wanted immediate responses. You tried to make her communicate in a way that was comfortable for you.",
+      "Mistake_Lesson": "Accept her communication style. Work with it, not against it.",
+      "Mistake_Tag": "Acceptance"
+    },
+    "Mistake193": {
+      "Mistake_Title": "Not Recognizing Breadcrumbing as a Sign",
+      "Mistake_Details": "She'd reach out occasionally with flirts or promises of dates that never happened. She kept you on the back burner. You accepted inconsistent attention.",
+      "Mistake_Lesson": "Breadcrumbs aren't enough. If she can't be consistent, let her go.",
+      "Mistake_Tag": "Standards"
+    },
+    "Mistake194": {
+      "Mistake_Title": "Making Her Feel Like an Option",
+      "Mistake_Details": "You were still looking around, still open to other people, still not fully committed. You kept her as a comfortable option while you looked for better. She felt that.",
+      "Mistake_Lesson": "If you're with her, be with her. Don't treat her like an option.",
+      "Mistake_Tag": "Commitment"
+    },
+    "Mistake195": {
+      "Mistake_Title": "Not Understanding That Healing Takes Time",
+      "Mistake_Details": "After a hurt, you expected her to bounce back immediately. You got frustrated with her sadness or anger. But healing isn't linear, and it takes time.",
+      "Mistake_Lesson": "Be patient with her healing. Don't rush her timeline.",
+      "Mistake_Tag": "Patience"
+    },
+    "Mistake196": {
+      "Mistake_Title": "Treating Arguments Like You Have to Win",
+      "Mistake_Details": "You approached every disagreement like a battle to be won. You had to be right; she had to be wrong. But relationships aren't about winning — they're about understanding.",
+      "Mistake_Lesson": "In arguments, aim for understanding, not victory.",
+      "Mistake_Tag": "Maturity"
+    },
+    "Mistake197": {
+      "Mistake_Title": "Not Noticing When She Stopped Trying",
+      "Mistake_Details": "At some point, she gave up. She stopped planning dates, stopped initiating conversations, stopped caring. But you didn't notice until it was too late.",
+      "Mistake_Lesson": "Notice when effort drops. Address it before it's too late.",
+      "Mistake_Tag": "Awareness"
+    },
+    "Mistake198": {
+      "Mistake_Title": "Expecting Her to Be Grateful for Bare Minimum",
+      "Mistake_Details": "You showed up (sometimes), you didn't cheat (as far as she knew), and you didn't abuse her. You expected her to be grateful for this bare minimum.",
+      "Mistake_Lesson": "Bare minimum is just that — minimum. Aim for much more."
+      "Mistake_Tag": "Standards"
+    },
+    "Mistake199": {
+      "Mistake_Title": "Not Accepting That Closure Might Not Come",
+      "Mistake_Details": "The relationship ended without closure. You wanted answers, explanations, final words. But sometimes you don't get them. You have to move on without perfect closure.",
+      "Mistake_Lesson": "Closure comes from within, not from them. Learn to accept uncertain endings.",
+      "Mistake_Tag": "Acceptance"
+    },
+    "Mistake200": {
+      "Mistake_Title": "Not Learning From the Relationship Before Moving On",
+      "Mistake_Details": "The relationship ended, and you immediately jumped into the next one without processing, healing, or learning from what went wrong. You repeated the same patterns.",
+      "Mistake_Lesson": "Take time to heal and learn. That's how you grow.",
+      "Mistake_Tag": "Growth"
+    },
+    "Mistake201": {
+      "Mistake_Title": "Not Setting Consequences for Broken Promises",
+      "Mistake_Details": "She broke promises repeatedly — about commitment, fidelity, being there for you — but there were no consequences. You just accepted it and moved on. That taught her she could break promises without repercussions.",
+      "Mistake_Lesson": "Set boundaries with consequences. Follow through.",
+      "Mistake_Tag": "Boundaries"
+    },
+    "Mistake202": {
+      "Mistake_Title": "Expecting Her to Know What She Did Wrong Without You Telling Her",
+      "Mistake_Details": "She upset you, but you didn't tell her why or what she did wrong. You just acted cold and expected her to figure it out. She couldn't apologize because she didn't know the offense.",
+      "Mistake_Lesson": "Tell her what she did. She's not a mind reader.",
+      "Mistake_Tag": "Communication"
+    },
+    "Mistake203": {
+      "Mistake_Title": "Not Recognizing When You're the Problem in the Relationship",
+      "Mistake_Details": "She brought concerns, your friends warned you, her family didn't like you. But you blamed her for everything. You were the problem, and you couldn't see it.",
+      "Mistake_Lesson": "Sometimes you're the issue. Be willing to look at your own behavior.",
+      "Mistake_Tag": "Self-Awareness"
+    },
+    "Mistake204": {
+      "Mistake_Title": "Making Future Plans Without Asking What She Wants",
+      "Mistake_Details": "You planned your future — where you'd live, what you'd do, how it would look — and expected her to just fit into it. You didn't ask what she wanted.",
+      "Mistake_Lesson": "Build a future together, not a future she just has to join.",
+      "Mistake_Tag": "Partnership"
+    },
+    "Mistake205": {
+      "Mistake_Title": "Not Understanding That Sometimes Staying is the Brave Choice",
+      "Mistake_Details": "When things got hard, your instinct was to leave. You didn't fight for the relationship. But sometimes staying and working through it is the brave choice.",
+      "Mistake_Lesson": "Know when to stay and fight, and when to walk. Both take courage.",
+      "Mistake_Tag": "Wisdom"
+    },
+    "Mistake206": {
+      "Mistake_Title": "Expecting Her to Forgive Faster Than She's Ready",
+      "Mistake_Details": "You hurt her, and after a few days or weeks, you wanted her to be over it. But forgiveness has its own timeline. You can't rush it.",
+      "Mistake_Lesson": "Forgiveness takes time. Don't rush her healing.",
+      "Mistake_Tag": "Patience"
+    },
+    "Mistake207": {
+      "Mistake_Title": "Not Investing in the Mundane Moments",
+      "Mistake_Details": "You focused on big gestures — fancy dinners, expensive gifts, special trips. But the real intimacy was in the mundane moments — morning coffee, evening walks, quiet nights. You overlooked what mattered most.",
+      "Mistake_Lesson": "The mundane moments are where real connection happens.",
+      "Mistake_Tag": "Presence"
+    },
+    "Mistake208": {
+      "Mistake_Title": "Treating Her Independence as a Threat",
+      "Mistake_Details": "She had her own life, her own friends, her own goals. Instead of celebrating that, you saw it as threatening. You wanted her dependent on you.",
+      "Mistake_Lesson": "Her independence is beautiful. Don't feel threatened by it.",
+      "Mistake_Tag": "Insecurity"
+    },
+    "Mistake209": {
+      "Mistake_Title": "Not Recognizing Red Flags Because You Were in Love",
+      "Mistake_Details": "She had major red flags — dishonesty, unkindness, selfishness — but you were so in love that you ignored them. Love blinded you to reality.",
+      "Mistake_Lesson": "Love doesn't mean ignoring red flags. It means seeing clearly and choosing anyway.",
+      "Mistake_Tag": "Wisdom"
+    },
+    "Mistake210": {
+      "Mistake_Title": "Giving Up on Yourself for the Relationship",
+      "Mistake_Details": "You stopped working out, stopped hanging with friends, stopped pursuing hobbies. You made the relationship your whole identity. When it ended, you had nothing.",
+      "Mistake_Lesson": "Build a life you love. A healthy relationship enhances it, not replaces it.",
+      "Mistake_Tag": "Balance"
     }
+
 
 
 
