@@ -64,328 +64,180 @@
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
 
-  {
-    "id": "christmas-elf",
-    "name": "Jingle",
-    "emoji": "🎄",
-    "description": "Christmas Elf",
-    "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
+   {
+    "id": "sleigh-elf",
+    "name": "Dasher",
+    "emoji": "🛷",
+    "description": "Sleigh Elf",
+    "role": "Preparing Santa's sleigh when one of the magical parts suddenly goes missing.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "gift-wrapping-elf",
-    "name": "Ribbon",
-    "emoji": "🎁",
-    "description": "Gift-Wrapping Elf",
-    "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
+    "id": "bell-elf",
+    "name": "Chime",
+    "emoji": "🔔",
+    "description": "Bell Elf",
+    "role": "Testing the magical Christmas bells when one bell stops making any sound.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "reindeer-elf",
-    "name": "Blitzen",
+    "id": "snow-elf",
+    "name": "Flurry",
+    "emoji": "❄️",
+    "description": "Snow Elf",
+    "role": "Creating the perfect Christmas snow but accidentally makes snow appear somewhere it shouldn't.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "magic-elf",
+    "name": "Sparkle",
+    "emoji": "✨",
+    "description": "Magic Elf",
+    "role": "Practicing Christmas magic when a spell goes completely wrong.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "decoration-elf",
+    "name": "Tinsel",
+    "emoji": "🎀",
+    "description": "Decoration Elf",
+    "role": "Decorating Santa's workshop when the decorations mysteriously keep moving.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "music-elf",
+    "name": "Melody",
+    "emoji": "🎶",
+    "description": "Christmas Music Elf",
+    "role": "Preparing the North Pole Christmas concert when the main song disappears.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "stocking-elf",
+    "name": "Woolly",
+    "emoji": "🧦",
+    "description": "Stocking Elf",
+    "role": "Organizing Christmas stockings and discovering one enormous stocking with no name.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "reindeer-trainer-elf",
+    "name": "Comet",
     "emoji": "🦌",
-    "description": "Reindeer Elf",
-    "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
+    "description": "Reindeer Trainer Elf",
+    "role": "Teaching a young reindeer how to fly before Christmas Eve.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "cookie-elf",
-    "name": "Sprinkle",
-    "emoji": "🍪",
-    "description": "Cookie Elf",
-    "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
+    "id": "navigator-elf",
+    "name": "Compass",
+    "emoji": "🧭",
+    "description": "North Pole Navigator Elf",
+    "role": "Preparing Santa's route when the magical Christmas map changes by itself.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "detective-elf",
-    "name": "Clue",
-    "emoji": "🕵️",
-    "description": "Detective Elf",
-    "role": "Investigating a mysterious disappearance at the North Pole.",
+    "id": "sleigh-repair-elf",
+    "name": "Wrench",
+    "emoji": "🔧",
+    "description": "Sleigh Repair Elf",
+    "role": "Fixing Santa's sleigh after discovering an unusual problem with the runners.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "santa-assistant-elf",
-    "name": "Holly",
-    "emoji": "🎅",
-    "description": "Santa's Assistant Elf",
-    "role": "Checking the Nice List and discovering something unexpected.",
+    "id": "potion-elf",
+    "name": "Bubbles",
+    "emoji": "🧪",
+    "description": "Christmas Potion Elf",
+    "role": "Making a magical Christmas potion when the ingredients start disappearing.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "toy-making-elf",
-    "name": "Gears",
-    "emoji": "🧸",
-    "description": "Toy-Making Elf",
-    "role": "Building toys when one special toy suddenly starts behaving strangely.",
+    "id": "delivery-elf",
+    "name": "Parcel",
+    "emoji": "📦",
+    "description": "North Pole Delivery Elf",
+    "role": "Organizing presents for delivery when one mysterious package appears without an address.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "letter-elf",
-    "name": "Postie",
-    "emoji": "✉️",
-    "description": "Letter Elf",
-    "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-
-  {
-    "id": "christmas-elf",
-    "name": "Jingle",
-    "emoji": "🎄",
-    "description": "Christmas Elf",
-    "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
+    "id": "tour-elf",
+    "name": "Guide",
+    "emoji": "🏰",
+    "description": "North Pole Tour Elf",
+    "role": "Giving a secret tour of the North Pole and revealing places children aren't normally allowed to see.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "gift-wrapping-elf",
-    "name": "Ribbon",
+    "id": "fortune-elf",
+    "name": "Oracle",
+    "emoji": "🔮",
+    "description": "Christmas Fortune Elf",
+    "role": "Using a magical snow globe to discover what might happen on Christmas Eve.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "penguin-elf",
+    "name": "Waddle",
+    "emoji": "🐧",
+    "description": "Penguin Elf",
+    "role": "Taking care of the North Pole penguins when one penguin escapes.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "arctic-animal-elf",
+    "name": "Frost",
+    "emoji": "🦊",
+    "description": "Arctic Animal Elf",
+    "role": "Helping lost Arctic animals find their way home before Christmas.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "star-elf",
+    "name": "Twinkle",
+    "emoji": "🌟",
+    "description": "Christmas Star Elf",
+    "role": "Responsible for lighting the Christmas star when it suddenly becomes too dim.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "clock-elf",
+    "name": "Ticker",
+    "emoji": "⏰",
+    "description": "Christmas Clock Elf",
+    "role": "Watching the magical North Pole clock when it suddenly starts counting down to Christmas too quickly.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "candle-elf",
+    "name": "Ember",
+    "emoji": "🕯️",
+    "description": "Christmas Candle Elf",
+    "role": "Protecting a magical Christmas candle that must stay lit until Christmas Eve.",
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+  },
+  {
+    "id": "secret-present-elf",
+    "name": "Keeper",
     "emoji": "🎁",
-    "description": "Gift-Wrapping Elf",
-    "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
+    "description": "Secret Present Elf",
+    "role": "Guarding a mysterious present that nobody at the North Pole is allowed to open.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "reindeer-elf",
-    "name": "Blitzen",
-    "emoji": "🦌",
-    "description": "Reindeer Elf",
-    "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
+    "id": "dream-elf",
+    "name": "Slumber",
+    "emoji": "💤",
+    "description": "Christmas Dream Elf",
+    "role": "Helping children have magical Christmas dreams while dealing with a strange dream that escaped.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
-    "id": "cookie-elf",
-    "name": "Sprinkle",
-    "emoji": "🍪",
-    "description": "Cookie Elf",
-    "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "detective-elf",
-    "name": "Clue",
-    "emoji": "🕵️",
-    "description": "Detective Elf",
-    "role": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "santa-assistant-elf",
-    "name": "Holly",
-    "emoji": "🎅",
-    "description": "Santa's Assistant Elf",
-    "role": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "toy-making-elf",
-    "name": "Gears",
-    "emoji": "🧸",
-    "description": "Toy-Making Elf",
-    "role": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "letter-elf",
-    "name": "Postie",
-    "emoji": "✉️",
-    "description": "Letter Elf",
-    "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-
-  {
-    "id": "christmas-elf",
-    "name": "Jingle",
-    "emoji": "🎄",
-    "description": "Christmas Elf",
-    "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "gift-wrapping-elf",
-    "name": "Ribbon",
-    "emoji": "🎁",
-    "description": "Gift-Wrapping Elf",
-    "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "reindeer-elf",
-    "name": "Blitzen",
-    "emoji": "🦌",
-    "description": "Reindeer Elf",
-    "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "cookie-elf",
-    "name": "Sprinkle",
-    "emoji": "🍪",
-    "description": "Cookie Elf",
-    "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "detective-elf",
-    "name": "Clue",
-    "emoji": "🕵️",
-    "description": "Detective Elf",
-    "role": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "santa-assistant-elf",
-    "name": "Holly",
-    "emoji": "🎅",
-    "description": "Santa's Assistant Elf",
-    "role": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "toy-making-elf",
-    "name": "Gears",
-    "emoji": "🧸",
-    "description": "Toy-Making Elf",
-    "role": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "letter-elf",
-    "name": "Postie",
-    "emoji": "✉️",
-    "description": "Letter Elf",
-    "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-
-  {
-    "id": "christmas-elf",
-    "name": "Jingle",
-    "emoji": "🎄",
-    "description": "Christmas Elf",
-    "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "gift-wrapping-elf",
-    "name": "Ribbon",
-    "emoji": "🎁",
-    "description": "Gift-Wrapping Elf",
-    "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "reindeer-elf",
-    "name": "Blitzen",
-    "emoji": "🦌",
-    "description": "Reindeer Elf",
-    "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "cookie-elf",
-    "name": "Sprinkle",
-    "emoji": "🍪",
-    "description": "Cookie Elf",
-    "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "detective-elf",
-    "name": "Clue",
-    "emoji": "🕵️",
-    "description": "Detective Elf",
-    "role": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "santa-assistant-elf",
-    "name": "Holly",
-    "emoji": "🎅",
-    "description": "Santa's Assistant Elf",
-    "role": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "toy-making-elf",
-    "name": "Gears",
-    "emoji": "🧸",
-    "description": "Toy-Making Elf",
-    "role": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "letter-elf",
-    "name": "Postie",
-    "emoji": "✉️",
-    "description": "Letter Elf",
-    "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-
-  {
-    "id": "christmas-elf",
-    "name": "Jingle",
-    "emoji": "🎄",
-    "description": "Christmas Elf",
-    "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "gift-wrapping-elf",
-    "name": "Ribbon",
-    "emoji": "🎁",
-    "description": "Gift-Wrapping Elf",
-    "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "reindeer-elf",
-    "name": "Blitzen",
-    "emoji": "🦌",
-    "description": "Reindeer Elf",
-    "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "cookie-elf",
-    "name": "Sprinkle",
-    "emoji": "🍪",
-    "description": "Cookie Elf",
-    "role": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "detective-elf",
-    "name": "Clue",
-    "emoji": "🕵️",
-    "description": "Detective Elf",
-    "role": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "santa-assistant-elf",
-    "name": "Holly",
-    "emoji": "🎅",
-    "description": "Santa's Assistant Elf",
-    "role": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "toy-making-elf",
-    "name": "Gears",
-    "emoji": "🧸",
-    "description": "Toy-Making Elf",
-    "role": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
-  },
-  {
-    "id": "letter-elf",
-    "name": "Postie",
-    "emoji": "✉️",
-    "description": "Letter Elf",
-    "role": "Sorting thousands of letters to Santa when one mysterious letter appears with no name on it.",
+    "id": "emergency-elf",
+    "name": "Alert",
+    "emoji": "🚨",
+    "description": "North Pole Emergency Elf",
+    "role": "Calling because something unexpected has happened at the North Pole and needs help solving it before Santa arrives.",
     "image_url": "https://i.imgur.com/en8W58G.jpeg"
   }
 ]
