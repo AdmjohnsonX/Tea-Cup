@@ -5,7 +5,7 @@
     "emoji": "🎄",
     "description": "Christmas Elf",
     "role": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/tGeYkcu.png"
   },
   {
     "id": "gift-wrapping-elf",
@@ -13,7 +13,7 @@
     "emoji": "🎁",
     "description": "Gift-Wrapping Elf",
     "role": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/ZvDzfzj.png"
   },
   {
     "id": "reindeer-elf",
@@ -21,7 +21,7 @@
     "emoji": "🦌",
     "description": "Reindeer Elf",
     "role": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://i.imgur.com/en8W58G.jpeg"
+    "image_url": "https://i.imgur.com/msapWBh.png"
   },
   {
     "id": "cookie-elf",
