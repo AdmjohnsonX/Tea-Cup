@@ -5,7 +5,7 @@
     "emoji": "🎄",
     "role": "Christmas Elf",
     "scenario": "Preparing the North Pole for Christmas and making sure everything is ready for the big day.",
-    "image_url": "https://your-cdn.com/elves/jingle.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "gift-wrapping-elf",
@@ -13,7 +13,7 @@
     "emoji": "🎁",
     "role": "Gift-Wrapping Elf",
     "scenario": "Accidentally mixed up several presents and needs help figuring out which gifts belong to whom.",
-    "image_url": "https://your-cdn.com/elves/ribbon.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "reindeer-elf",
@@ -21,7 +21,7 @@
     "emoji": "🦌",
     "role": "Reindeer Elf",
     "scenario": "Getting Santa's reindeer ready for their flight and dealing with one reindeer that refuses to practice.",
-    "image_url": "https://your-cdn.com/elves/blitzen.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "cookie-elf",
@@ -29,7 +29,7 @@
     "emoji": "🍪",
     "role": "Cookie Elf",
     "scenario": "Preparing Santa's cookies when something goes wrong in the North Pole kitchen.",
-    "image_url": "https://your-cdn.com/elves/sprinkle.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "detective-elf",
@@ -37,7 +37,7 @@
     "emoji": "🕵️",
     "role": "Detective Elf",
     "scenario": "Investigating a mysterious disappearance at the North Pole.",
-    "image_url": "https://your-cdn.com/elves/clue.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "santa-assistant-elf",
@@ -45,7 +45,7 @@
     "emoji": "🎅",
     "role": "Santa's Assistant Elf",
     "scenario": "Checking the Nice List and discovering something unexpected.",
-    "image_url": "https://your-cdn.com/elves/holly.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "toy-making-elf",
@@ -53,7 +53,7 @@
     "emoji": "🧸",
     "role": "Toy-Making Elf",
     "scenario": "Building toys when one special toy suddenly starts behaving strangely.",
-    "image_url": "https://your-cdn.com/elves/gears.png"
+    "image_url": "https://i.imgur.com/en8W58G.jpeg"
   },
   {
     "id": "letter-elf",
